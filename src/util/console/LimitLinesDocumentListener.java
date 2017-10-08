@@ -1,4 +1,4 @@
-package Util.Console;
+package util.console;
 
 import javax.swing.*;
 import javax.swing.event.*;

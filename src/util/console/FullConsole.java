@@ -1,5 +1,5 @@
 
-package Util.Console;
+package util.console;
 
 import lazyman.PopupListener;
 

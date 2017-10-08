@@ -1,4 +1,4 @@
-package Util.Console;
+package util.console;
 
 import java.io.*;
 import java.awt.*;

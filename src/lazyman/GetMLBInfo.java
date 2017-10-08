@@ -1,9 +1,9 @@
 
 package lazyman;
 
-import GameObj.Game;
-import Objects.Web;
-import Util.MessageBox;
+import gameobj.Game;
+import objects.Web;
+import util.MessageBox;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;

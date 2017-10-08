@@ -5,7 +5,7 @@
  */
 package lazyman;
 
-import Util.Props;
+import util.Props;
 
 /**
  *

@@ -1,7 +1,7 @@
-package GameObj;
+package gameobj;
 
-import Objects.Time;
-import Objects.Web;
+import objects.Time;
+import objects.Web;
 import java.net.UnknownHostException;
 
 public class GameWatchInfo {

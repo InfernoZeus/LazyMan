@@ -1,7 +1,7 @@
 
-package Objects;
+package objects;
 
-import Util.Encryption;
+import util.Encryption;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;

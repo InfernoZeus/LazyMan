@@ -1,5 +1,5 @@
 
-package GameObj;
+package gameobj;
 
 import com.toedter.calendar.JDateChooser;
 import java.util.ArrayList;

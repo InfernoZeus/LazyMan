@@ -1,10 +1,10 @@
-package Objects;
+package objects;
 
-import GameObj.Game;
-import GameObj.GameWatchInfo;
-import Util.Props;
-import Util.Encryption;
-import Util.MessageBox;
+import gameobj.Game;
+import gameobj.GameWatchInfo;
+import util.Props;
+import util.Encryption;
+import util.MessageBox;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;

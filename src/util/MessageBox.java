@@ -1,5 +1,5 @@
 
-package Util;
+package util;
 
 import javax.swing.JOptionPane;
 

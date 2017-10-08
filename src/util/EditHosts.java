@@ -1,6 +1,6 @@
-package Util;
+package util;
 
-import GameObj.League;
+import gameobj.League;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;

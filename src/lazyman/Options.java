@@ -1,6 +1,6 @@
 package lazyman;
 
-import Util.Props;
+import util.Props;
 import java.awt.FileDialog;
 import java.nio.file.Paths;
 import java.util.Map;

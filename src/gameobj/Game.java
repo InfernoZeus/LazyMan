@@ -1,5 +1,5 @@
 
-package GameObj;
+package gameobj;
 
 
 public class Game extends GameStream {

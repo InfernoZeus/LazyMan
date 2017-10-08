@@ -1,4 +1,4 @@
-package Util;
+package util;
 
 import java.awt.Component;
 import javax.swing.JTable;

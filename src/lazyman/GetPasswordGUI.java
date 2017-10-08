@@ -1,9 +1,9 @@
 
 package lazyman;
 
-import Util.MessageBox;
-import Util.ProcessReader;
-import Util.Props;
+import util.MessageBox;
+import util.ProcessReader;
+import util.Props;
 import java.awt.event.KeyEvent;
 import java.io.IOException;
 import java.util.Arrays;
